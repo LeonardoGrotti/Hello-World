@@ -12,8 +12,6 @@ class Bar {
   //final List drinks;
 
   Bar(
-// apenas um teste para aprender a commitar
-
       {@required this.id,
       @required this.name,
       @required this.image,
@@ -23,4 +21,3 @@ class Bar {
       @required this.distance,
       @required this.drinks});
 }
-print('oi')
